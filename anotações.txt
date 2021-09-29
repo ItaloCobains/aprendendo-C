@@ -1,0 +1,76 @@
+#include <stdio.h> para o pre processamentos das bibliotecast
+#include <conio.h> 
+
+func = getch() e utilizada, basicamente para esperar o pressinamento de uma tecla pelo de
+
+OBS a fubc getche() funciona de forma semelhante, porem exibe na tela o caractere digitados
+
+a func clrscr() e utilizada para limpar a tela 
+
+#include <stdlib.h>
+requerida para usar o rand()
+
+int sorteio = rand() rand = randon
+
+#include <math.h>
+
+utilizada para realizar calculos matematicos 
+funcao trigonometria 
+funcao logartimica 
+funcao exponentcial
+outras func(pow, sqrt.......)
+
+int x e diferente de int X
+
+Tipo basicos de variaveis 
+
+char: caractere
+int: inteiro
+float: ponto flutuante  
+double: ponto flutuante de dupla precisao
+void: sem valor
+
+Categorias de operadores C
+
+Operador de atibuição   
+Operadores matematicos
+Operadores relacionais 
+Operadores logicos  
+
+Operador de atribuição 
+O valor de atribui o valor de b para a A = B  
+
+variavel = expressao
+
+Operadores matematicos
+Operadores Unarios 
+++ Incrementa o operando dee uma unidade x++
+-- decrementa o operando em uma unidade x--
+
+Operadores logicos 
+
+and (e) &&
+or (ou) ||
+not (negação) !
+
+funcao basicas
+main()
+
+Especificações e formato mais ultilizados    
+%c caractere simples
+%d inteiro
+%e notação cientification
+%f ponto flutuante
+%g %e ou %f (mais curto)
+%o octal
+%s string
+%u inteiro sem sinal
+%x hexadecimal 
+%if tipo double 
+%u inteiro n sinalizado (tipo unsigned int)
+%id tipo long int
+
+
+
+
+
